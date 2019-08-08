@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Select Component Tests renders correctly with no options 1`] = `
+<select
+  className="css-1x5yj64"
+/>
+`;
+
+exports[`Select Component Tests renders correctly with options 1`] = `
+<select
+  className="css-1x5yj64"
+>
+  <option>
+    Test Item
+  </option>
+</select>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search tests should render an empty search 1`] = `
+<div
+  className="css-g6h4xk-Search"
+>
+  <input
+    className="css-1s785y2"
+    onChange={[Function]}
+    onKeyDown={[Function]}
+    placeholder="Search for repos"
+    value=""
+  />
+  <button
+    className="css-1kq9qcs"
+    onClick={[Function]}
+  >
+    Search
+  </button>
+</div>
+`;
