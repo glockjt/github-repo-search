@@ -99,7 +99,7 @@ const App = props => {
           </ListHeader>
         )}
         <div>
-          {values.error && <Message>Oops an error occured.</Message>}
+          {values.error && <Message>Oops an error occurred.</Message>}
           {!values.error && !values.results.items.length && !values.loading && (
             <Message>
               No repos yet, trying searching for one like 'testing'
